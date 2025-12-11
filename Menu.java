@@ -1,4 +1,4 @@
-package tema3.relacion3_5;
+package tema3.relacion5;
 
 import java.util.Scanner;
 
@@ -12,8 +12,8 @@ public class Menu {
 			System.out.println("");
 			System.out.println("MENÚ PRINCIPAL");
 			System.out.println("==============");
-			System.out.println("1. Piedra, papel o tijera.");
-			System.out.println("2. Abecedario.");
+			System.out.println("Juego 1. Piedra, papel o tijera.");
+			System.out.println("Juego 2. Abecedario.");
 			System.out.println("0. Salir.");
 			System.out.print("Escribe un número de opción (0-2): ");
 			
