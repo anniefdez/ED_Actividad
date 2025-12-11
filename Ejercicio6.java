@@ -1,4 +1,4 @@
-package tema3.relacion3_5;
+package tema3.relacion5;
 
 import java.util.Scanner;
 
